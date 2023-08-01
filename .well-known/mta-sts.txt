@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: gateway.cliffmail.com
 mx: mutant.cliffmail.com
-max_age: 3600
+max_age: 84600
